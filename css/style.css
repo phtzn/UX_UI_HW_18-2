@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    b
+}
+.inline-block{
+    display: inline-block;
+}
+.logo img{
+    width: 80px;
+    opacity: 40%;
+    padding: 10%;
+    margin-left: 20px;
+}
+.navigation{
+    height: 100px;
+    background-color: black;
+    position: sticky;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.navigation ul {
+    list-style-type: none;
+    font-family: "Proxima Nova Semibold",sans-serif;
+    font-size: 12px;
+    opacity: 60%;
+  }
+  
+  .inline-block li{
+    color: white;
+    float: left;
+    padding: 30px;
+    display: block;
+}
+h1{
+    font-family: "Proxima Nova Bold", sans-serif;
+    color: white;
+    font-size: 76px;
+    margin-left: 200px;
+    margin-right: 600px;
+}
+
+h2{
+    font-family: "Proxima Nova Light", sans-serif;
+    color: white;
+    font-size: 36px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h3{
+    font-family: "Proxima Nova Light", sans-serif;
+    color: white;
+}
+  
